@@ -25,4 +25,4 @@ There are two options
   - Lesson 5: [Pandas-datareader](https://colab.research.google.com/github/LearnPythonWithRune/FinancialDataAnalysisWithPython/blob/main/05%20-%20Pandas%20Datareader.ipynb)
   - Lesson 6: [Simple Calculations - Volatility, SMA, and EMA](https://colab.research.google.com/github/LearnPythonWithRune/FinancialDataAnalysisWithPython/blob/main/06%20-%20Simple%20Calculations%20-%20Volatility%2C%20SMA%2C%20and%20EMA.ipynb)
   - Lesson 7: [MACD and Stochastic Oscillator](https://colab.research.google.com/github/LearnPythonWithRune/FinancialDataAnalysisWithPython/blob/main/07%20-%20MACD%20and%20Stochastic.ipynb)
-  - Lesson 8: [Export to Exceld](https://colab.research.google.com/github/LearnPythonWithRune/FinancialDataAnalysisWithPython/blob/main/08%20-%20Export%20to%20Excel.ipynb)
+  - Lesson 8: [Export to Excel](https://colab.research.google.com/github/LearnPythonWithRune/FinancialDataAnalysisWithPython/blob/main/08%20-%20Export%20to%20Excel.ipynb)
