@@ -28,6 +28,6 @@ Note: On each of those options, you'll find:
 - No installations needed
 
 - Follow the YouTube playlist [YouTube course playlist](https://youtube.com/playlist?list=PLvMRWNpDTNwQF6t_Tq7aVX0AI6H1avSpv)
-- Go to [Colab Notebooks Folder](https://github.com/LearnPythonWithRune/FinancialDataAnalysisWithPython/tree/main/jupyter)
+- Go to [Colab Notebooks Folder](https://github.com/LearnPythonWithRune/FinancialDataAnalysisWithPython/tree/main/colab)
 
 - Note: On each notebook, click on "Open in Colab", in order to open it on Google Colab
